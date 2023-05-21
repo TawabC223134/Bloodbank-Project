@@ -1,0 +1,58 @@
+A+
+5
+sajid 
+chawkbazar
+Akib
+khal par
+Babar
+dc road
+Rahim 
+boro mia moshjid
+Kaim
+chawkbazar
+A-
+3
+jabed
+jamal khan
+foyez
+rahmatganj
+orghgo
+new market
+B+
+5
+shahid
+agrabad
+ishat
+gulzar
+jabbar
+2 no gate
+ishan
+muradpur
+jahin
+wasa
+B-
+0
+O+
+5
+Ome
+baddarhaat
+Akbar
+rahattarpool
+Kader
+oxygen
+akib
+link road
+tawab
+bakalia
+O-
+0
+AB+
+3
+hossain
+chawkbazar
+Muhammad
+katwali
+Kabir
+anderkilla
+AB-
+0
